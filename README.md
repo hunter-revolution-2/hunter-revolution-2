@@ -30,9 +30,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/492060626_122203063058156761_6556198120668878769_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=e1LZ9KB1_l4Q7kNvwEBYuCs&_nc_oc=AdmxKl4Q2xTqyk0OA1PvqLvSYUC13ftoi9swBeI2WcsLOT1IqhNGZTeRVDQQEIfuf40&_nc_zt=23&_nc_ht=scontent.fdac140-1.fna&_nc_gid=m4N1cAE7AZHw9esJq95H5A&oh=00_AfQVWWn6U-ydH85DVwCEeCAtLuWUnIAtIWaA3AyW5_r_Ow&oe=68704B84" width="1500" alt="Profile Picture" />
+  <img src="https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/494004025_679212101560295_6003890615593367973_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yoqllxlefZYQ7kNvwH8UUl5&_nc_oc=Admk2cnSAX_Yzc150SwMBEmjuqh7De7kOWgSNlLaxpOJ5vrpkausPD5GoxVtlxUBybg&_nc_zt=23&_nc_ht=scontent.fdac140-1.fna&_nc_gid=E0G_f_cvNCdPDIvL2kNlmg&oh=00_AfQ29fGNtHvTLSmTrKIUh23u3MjsnMSztqN9-z2P9uG-ag&oe=687059A9" width="390" alt="Profile Picture" /> 
 </p>
-
 
 ---
 
