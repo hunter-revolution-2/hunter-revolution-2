@@ -29,7 +29,10 @@
 ---
 
 ## 📊 GitHub Stats:
-![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunterRev2&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/492060626_122203063058156761_6556198120668878769_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=e1LZ9KB1_l4Q7kNvwEBYuCs&_nc_oc=AdmxKl4Q2xTqyk0OA1PvqLvSYUC13ftoi9swBeI2WcsLOT1IqhNGZTeRVDQQEIfuf40&_nc_zt=23&_nc_ht=scontent.fdac140-1.fna&_nc_gid=m4N1cAE7AZHw9esJq95H5A&oh=00_AfQVWWn6U-ydH85DVwCEeCAtLuWUnIAtIWaA3AyW5_r_Ow&oe=68704B84" width="150" alt="Profile Picture" />
+</p>
+
 
 ---
 
